@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/weve-acces-task-manager/static/css/main.a70d1437.css",
+    "main.js": "/weve-acces-task-manager/static/js/main.532d5803.js",
+    "index.html": "/weve-acces-task-manager/index.html",
+    "main.a70d1437.css.map": "/weve-acces-task-manager/static/css/main.a70d1437.css.map",
+    "main.532d5803.js.map": "/weve-acces-task-manager/static/js/main.532d5803.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a70d1437.css",
+    "static/js/main.532d5803.js"
+  ]
+}
