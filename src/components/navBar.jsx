@@ -8,7 +8,7 @@ const NavBar = () => {
     return ( 
         <nav className='nav'>
             <Link 
-                to='/' 
+                to='/weve-acces-task-manager' 
                 className={
                     
                     location.pathname === '/' 

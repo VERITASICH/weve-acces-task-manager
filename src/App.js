@@ -67,7 +67,7 @@ const handleDeletePermanently = (taskId) => {
 
   return (
     // Обертка для маршрутизации (BrowserRouter)
-    <BrowserRouter>
+    <BrowserRouter >
       <div className="app">
         {/* Навигационное меню */}
         <NavBar />
@@ -76,7 +76,7 @@ const handleDeletePermanently = (taskId) => {
         <Routes>
           {/* Главная страница (список задач) */}
           <Route
-            path="/"
+            path="/weve-acces-task-manager"
             element={<Main tasks={tasks} />} // Передаем задачи в компонент Main
           />
 
