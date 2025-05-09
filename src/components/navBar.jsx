@@ -11,7 +11,7 @@ const NavBar = () => {
                 to='/weve-acces-task-manager' 
                 className={
                     
-                    location.pathname === '/' 
+                    location.pathname === '/weve-acces-task-manager' 
                         ? 'active' 
                         : ''
                 }
