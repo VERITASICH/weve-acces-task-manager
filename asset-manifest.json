@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/weve-acces-task-manager/static/css/main.a70d1437.css",
-    "main.js": "/weve-acces-task-manager/static/js/main.71417c43.js",
+    "main.js": "/weve-acces-task-manager/static/js/main.e438e911.js",
     "index.html": "/weve-acces-task-manager/index.html",
     "main.a70d1437.css.map": "/weve-acces-task-manager/static/css/main.a70d1437.css.map",
-    "main.71417c43.js.map": "/weve-acces-task-manager/static/js/main.71417c43.js.map"
+    "main.e438e911.js.map": "/weve-acces-task-manager/static/js/main.e438e911.js.map"
   },
   "entrypoints": [
     "static/css/main.a70d1437.css",
-    "static/js/main.71417c43.js"
+    "static/js/main.e438e911.js"
   ]
 }
